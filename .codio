@@ -1,0 +1,10 @@
+{
+    "commands": {
+     "Configure Project": "bash wpconfig.sh"
+    },
+    "preview": {
+        "WordPress Login": "http://{{domain3000}}/wordpress/wp-login.php",
+        "Write Your Blog": "http://{{domain3000}}/wordpress/wp-admin",
+        "View Your Blog": "http://{{domain3000}}/wordpress"
+    }
+}

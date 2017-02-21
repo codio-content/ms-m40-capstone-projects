@@ -1,0 +1,382 @@
+{
+ "sections": [
+  {
+   "id": "272a8e03-3055-0c6f-4e81-f32acf3ecbeb",
+   "title": "Capstone Setup",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Capstone-Setup-272a.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "bc0abf6c-840a-6dad-ef0f-5f6a886a0ce3",
+   "title": "Setting Up Your Blog",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Setting-Up-Your-Blog-bc0a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a4826a4d-a537-4b72-d5bc-b6b3f8d9cab5",
+   "title": "Viewing Your Blog",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Viewing-Your-Blog-a482.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "549ee1d1-501d-b6e7-6014-a178ab7e11c0",
+   "title": "Logging Into Your Blog",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Logging-Into-Your-Blog-549e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "df486d42-f146-e315-4ebf-de2645aefc22",
+   "title": "Making a Post",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Making-a-Post-df48.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9239c64b-63f0-baf9-2666-24048b71f169",
+   "title": "An Ethical Dilemma",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/An-Ethical-Dilemma-9239.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c3a19354-22e8-882c-0e91-a60b110854f1",
+   "title": "The Question",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-Question-c3a1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "518455c0-ff9b-9be4-b2b7-e6b9b70537f6",
+   "title": "Your Answer",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Your-Answer-5184.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "025b7949-6ba1-de80-f74a-1c13d96b1d50",
+   "title": "Improve Your Blog",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Improve-Your-Blog-025b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ad4d4ff8-31c9-bf6b-35f1-8f0c909c8b08",
+   "title": "Innovation",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Innovation-ad4d.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a3887fb3-b2eb-648d-921c-cf25d1699e32",
+   "title": "Identifying a Computing Innovation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Identifying-a-Computing-Innovation-a388.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c8a8bf2b-a016-cf6c-5464-e2d81791ba52",
+   "title": "Hardware & Software",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hardware---Software-c8a8.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1f3561b1-1e7f-7ec1-eff9-0b24500edeed",
+   "title": "Understand the Functions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Understand-the-Functions-1f35.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "163dee1f-af32-0bfc-95e8-6bf45c76176a",
+   "title": "Careers in Computer Science",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Careers-in-Computer-Science-163d.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d70bd026-c448-be8b-d195-0d62c84f0150",
+   "title": "Choose an Innovation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Choose-an-Innovation-d70b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "160e64b8-d09c-5355-1597-2054f23f8daa",
+   "title": "Conduct Research",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Conduct-Research-160e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9eba267f-e12c-b138-6a5b-2f555cec3e10",
+   "title": "Post & Respond",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Post---Respond-9eba.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "fd3cc7cd-bc88-ac92-bd05-b8ada89c25a8",
+   "title": "Giving Credit Where Credit is Due",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Giving-Credit-Where-Credit-is-Due-fd3c.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7f21f4b4-47bb-8454-0294-ec00bbdb0e23",
+   "title": "Academic Integrity",
+   "files": [
+    {
+     "path": ".guides/content/inputProperAttribution.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Academic-Integrity-7f21.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a53f7d8d-7c59-0da9-3788-18036b617e28",
+   "title": "Attribution Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Attribution-Challenge-a53f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2aa05f1b-83f8-28dd-6b37-bb7a0b7914d6",
+   "title": "Did You Cite?",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Did-You-Cite--2aa0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0455dafe-8c93-2f01-4d52-02edc63986bc",
+   "title": "Removing Barriers to Universal Access",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Removing-Barriers-to-Universal-Access-0455.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8798e82b-6ccd-b1b5-b718-3b5b4fa57f61",
+   "title": "Understand Your Reader",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Understand-Your-Reader-8798.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a6bb1f37-e837-d27d-af5b-3391169d119c",
+   "title": "Web Accessibility Issues",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Web-Accessibility-Issues-a6bb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "00d100c3-b313-6709-48bd-6eb1a1ed193f",
+   "title": "Improve Your Blog",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Improve-Your-Blog-00d1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3ee3ebd6-fbab-9f01-aa7c-c6d74787d274",
+   "title": "The Digital Divide",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-Digital-Divide-3ee3.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "76168fec-197c-965c-cba0-40230d91f250",
+   "title": "Blog About It",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Blog-About-It-7616.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2b612c08-5a62-b90a-8887-43a4fdf597ca",
+   "title": "Creative Commons & Open Source",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Creative-Commons---Open-Source-2b61.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ab3852d8-6a65-d7f2-4037-5d6c1a638c8c",
+   "title": "Giving Attribution",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Giving-Attribution-ab38.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "654fb6b7-d344-9296-de18-01c4efa71ae3",
+   "title": "Creative Commons",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Creative-Commons-654f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a353db55-74f6-9164-024c-b5e6061a549e",
+   "title": "Open Source Software",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Open-Source-Software-a353.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "55022e1d-261d-4e09-6b52-30c83b381ad1",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-5502.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false
+}

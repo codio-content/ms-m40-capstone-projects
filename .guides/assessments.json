@@ -1,0 +1,94 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4180335453",
+  "source": {
+   "name": "CC & OS 1",
+   "showName": true,
+   "instructions": "True or False:  All software must be paid for and may never be copied.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "da24d4fe-c6b9-5216-356d-f38d6550a49b",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "3399d362-c478-3e00-83b7-a1089bee8c9d",
+     "correct": true,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1534943429",
+  "source": {
+   "name": "CC & OS 2",
+   "showName": true,
+   "instructions": "Which of the following are considerations to keep in mind when reusing or remixing others' code?  Select all that apply.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "01344526-3eea-1a0d-c200-c67d1113e6fe",
+     "correct": true,
+     "answer": "Title"
+    },
+    {
+     "_id": "0c7cf476-437d-05aa-ee6f-a946a641b83c",
+     "correct": false,
+     "answer": "Cost"
+    },
+    {
+     "_id": "f667b61b-42eb-6c72-4eff-face708cf7d2",
+     "correct": true,
+     "answer": "Author"
+    },
+    {
+     "_id": "122708b3-cad1-a194-6041-70636d0afad7",
+     "correct": true,
+     "answer": "Source"
+    },
+    {
+     "_id": "25c60ece-bf51-d3e6-f200-a2674c568cfe",
+     "correct": false,
+     "answer": "Quality"
+    },
+    {
+     "_id": "6ff16857-a69b-ab89-f9a6-f848b40fb9f4",
+     "correct": true,
+     "answer": "License"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-797940920",
+  "source": {
+   "name": "Test",
+   "showName": true,
+   "instructions": "Test",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "da57ee1e-0017-eddf-a4c6-837ae401c05b",
+     "correct": true,
+     "answer": "Test"
+    },
+    {
+     "_id": "9633cf11-b4e6-e832-3dc8-54571640a606",
+     "correct": false,
+     "answer": "Boo"
+    }
+   ]
+  }
+ }
+]
