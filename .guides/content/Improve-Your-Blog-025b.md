@@ -12,9 +12,3 @@ Use an iterative process as you adjust your blog experience.
 1.	Repeat this process for all tasks.
 
 |||
-
-|||guidance
-If students make a change to blog settings that damage WordPress you can completely reset the student's blog site from the Project menu.  This will erase all posts and customizations.
-![](./img/reset.png)
-
-|||
