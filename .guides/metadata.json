@@ -236,13 +236,8 @@
   {
    "id": "2aa05f1b-83f8-28dd-6b37-bb7a0b7914d6",
    "title": "Did You Cite?",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "",
+   "files": [],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Did-You-Cite--2aa0.md",

@@ -6,3 +6,7 @@ Work with your teacher to identify the blog addresses of at least three of your 
 
 Respond to the questions that others post to your blog.
 
+|||guidance
+**Teachers Note**
+Other students blogs will only be accessible (using the View your Blog URL) when the student(s) are logged into Codio and have their Captstone Project open
+|||
