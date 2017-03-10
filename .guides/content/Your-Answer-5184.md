@@ -8,6 +8,12 @@ You and your partner should create one blog post (which you will each post on yo
 - Organize your content
 
 |||
+
+|||info
+# Remember to give your Blog Posts a meaningful title:
+For this challenge, perhaps:
+*yourname-Answer2_2*
+|||
 |||challenge
 ## Do your work!
 - Post your draft

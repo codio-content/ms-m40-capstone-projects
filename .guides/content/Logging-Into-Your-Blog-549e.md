@@ -4,6 +4,6 @@ From the same menu above choose **WordPress Login**.  This will open a sign-in s
 
 
 
-Log in, and you should see the WordPress Dashboard
+Log in with the Username and Password you used earlier, and you should see the WordPress Dashboard
 
 ![Dashboard](./img/dashboard.png "WordPress Dashboard")
